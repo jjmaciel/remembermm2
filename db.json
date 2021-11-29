@@ -37,16 +37,10 @@
       "id": 13
     },
     {
-      "name": "joão",
-      "email": "juraci@gmail.com",
+      "name": "João Maciel",
+      "email": "joao@gmail.com",
       "phone": "(51) 9986-4843",
       "id": 14
-    },
-    {
-      "name": "joão",
-      "email": "juraci@gmail.com",
-      "phone": "(51) 9986-4843",
-      "id": 15
     },
     {
       "name": "Clara Grand Annes",
@@ -59,6 +53,18 @@
       "email": "teste@gmail",
       "phone": "12345679",
       "id": 17
+    },
+    {
+      "name": "Anny",
+      "email": "anny@mmtech.com.br",
+      "phone": "(41) 123456798",
+      "id": 18
+    },
+    {
+      "name": "teste",
+      "email": "teste@gmail",
+      "phone": "2132132132",
+      "id": 19
     }
   ]
 }
